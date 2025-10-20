@@ -36,7 +36,8 @@ header{
 
 .username{
     background-color: #E6F3FF;
-    height:60px;
+    height:50px;
+    margin-top: 10px;
     display:grid;
     margin-bottom:10px;
     justify-content: center;
